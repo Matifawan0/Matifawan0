@@ -1,4 +1,4 @@
-👋 Hi, I’m Muhammad Atif (Matifawan)
+👋 Hi, I’m Muhammad Atif 
 
 ## 👀 Interests
 - Flutter | Mobile App Development (iOS/Android)
