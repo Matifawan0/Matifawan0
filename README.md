@@ -46,9 +46,5 @@ Advanced scanner app with optimized performance.
 
 ---
 
-## 📊 GitHub Stats
-![Matifawan0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matifawan0&show_icons=true&theme=radical)
-
----
 
 ⭐ Explore my repositories and feel free to connect!
