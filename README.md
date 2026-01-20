@@ -3,9 +3,9 @@
 
 📍 Islamabad, Pakistan  
 📧 muhammadatifawan8@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-atif-67396b270/) | [GitHub](https://github.com/Matifawan0)
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-atif-67396b270/) 
+📄 **CV:** [View Resume](https://drive.google.com/file/d/1lIMnN9YzMBKr-JRlHuFcmSzcG2ensTLx/view?usp=sharing)
 
----
 
 ## 👋 About Me
 Flutter Developer focused on building clean, functional, and user-friendly mobile applications. I work on turning ideas into real products using Flutter and Firebase, with a strong focus on performance, scalability, and maintainable code.
