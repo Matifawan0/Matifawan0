@@ -8,12 +8,21 @@
 ---
 
 ## 👋 About Me
-Flutter Developer focused on building clean, functional, and user‑friendly mobile applications using Flutter and Firebase.
+Flutter Developer focused on building clean, functional, and user-friendly mobile applications using Flutter and Firebase.
+
+---
+
+## ⚡ Tech Stack & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 👀 Areas of Interest
-- Flutter & Cross‑Platform Mobile Development (Android / iOS)  
+- Flutter & Cross-Platform Mobile Development (Android / iOS)  
 - Machine Learning Fundamentals (Exploration & Learning)
 
 ---
@@ -21,10 +30,10 @@ Flutter Developer focused on building clean, functional, and user‑friendly mob
 ## 📱 Top Projects
 
 ### Next Buy App  
-E‑commerce app with product listings and smooth navigation.
+E-commerce app with product listings and smooth navigation.
 
 ### Khad Bazar *(In Development)*  
-Marketplace app for fertiliser products with categories.
+Marketplace app for fertilizer products with categories.
 
 ### Ideal School App  
 School management app with complete UI frontend.
@@ -33,7 +42,12 @@ School management app with complete UI frontend.
 Social app to discover and share food places.
 
 ### QuScan App  
-Advanced scanner app with optimised performance.
+Advanced scanner app with optimized performance.
+
+---
+
+## 📊 GitHub Stats
+![Matifawan0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matifawan0&show_icons=true&theme=radical)
 
 ---
 
