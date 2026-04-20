@@ -8,8 +8,10 @@
 ---
 
 ## 👋 About Me
-Flutter Developer focused on building clean, functional, and user-friendly mobile applications using Flutter and Firebase.
+Working as a Junior Flutter Developer at Zippy Ecom Solutions, focusing on cross-platform mobile application development using Flutter. Building responsive UI designs, integrating Firebase services, managing app state, fixing bugs, improving app performance, and collaborating with the development team to deliver scalable eCommerce and business solutions.
 
+On-site
+DHA Phase 2, Islamabad, Pakistan
 ---
 
 ## ⚡ Tech Stack & Tools
