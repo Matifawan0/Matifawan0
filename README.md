@@ -22,6 +22,8 @@ DHA Phase 2, Islamabad, Pakistan
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+### 📊 GitHub Stats
+![Atif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matifawan0&show_icons=true&theme=radical&hide_border=true)
 
 ## 👀 Areas of Interest
 - Flutter & Cross-Platform Mobile Development (Android / iOS)  
