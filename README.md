@@ -33,24 +33,27 @@ DHA Phase 2, Islamabad, Pakistan
 
 ---
 
-## 📱 Top Projects
+##  Projects
 
-### Next Buy App  
+### Next Buy App 🚀
+*Status: Finalizing for Deployment*
 E-commerce app with product listings and smooth navigation.
 
-### Khad Bazar *(In Development)*  
+### Khad Bazar 🚧
+*Status: In Development*
 Marketplace app for fertilizer products with categories.
 
-### Ideal School App  
+### Ideal School App 🎓
+*Status: Version 1.0 (UI Frontend)*
 School management app with complete UI frontend.
 
-### Bozt App  
+### Bozt App ✨
+*Status: Alpha*
 Social app to discover and share food places.
 
-### QuScan App  
+### QuScan App ⚡
+*Status: Feature Optimization*
 Advanced scanner app with optimized performance.
-
----
 
 
 ⭐ Explore my repositories and feel free to connect!
