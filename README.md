@@ -22,12 +22,14 @@ DHA Phase 2, Islamabad, Pakistan
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-### 📊 GitHub Stats
-![Atif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matifawan0&show_icons=true&theme=radical&hide_border=true)
 
-## 👀 Areas of Interest
-- Flutter & Cross-Platform Mobile Development (Android / iOS)  
-- Machine Learning Fundamentals (Exploration & Learning)
+
+# 🚀 Current Focus & Product 
+*Building professional-grade mobile applications with a focus on premium UI/UX.*
+
+- **Google Play Store:** Actively preparing full-scale apps for Play Store deployment.
+- **Backend & State:** Implementing robust Firebase integration and real-time state management.
+- **UI Architecture:** Focusing on building modular, reusable UI components for scalable design systems.
 
 ---
 
