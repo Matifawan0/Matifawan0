@@ -3,7 +3,7 @@
 
 📍 Islamabad, Pakistan  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-atif-67396b270/)  
-📄 **CV:** [View Resume](https://drive.google.com/file/d/1lIMnN9YzMBKr-JRlHuFcmSzcG2ensTLx/view?usp=sharing)
+📄 **CV:** [View Resume](https://drive.google.com/file/d/1_xZOd85gCcfAd0yN8gu3DdayN4C11qNY/view?usp=sharing)
 
 ---
 
