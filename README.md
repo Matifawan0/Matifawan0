@@ -8,7 +8,12 @@
 ---
 
 ## 👋 About Me
-Flutter Developer at Zippy Ecom Solutions · Building cross-platform mobile apps with Flutter — full product apps, AI-integrated apps, 90+ screen projects · Firebase · Responsive UI · State Management · eCommerce & Business Solutions
+**Flutter Developer at Zippy Ecom Solutions**
+
+Building scalable, high-quality cross-platform mobile applications with Flutter. Experienced in developing complete product-based applications and AI-integrated solutions.
+
+**Core Expertise:** Flutter & Dart · Firebase · AI Integration · Responsive UI/UX · State Management · REST APIs · eCommerce · Business Solutions
+
 
 On-site
 DHA Phase 2, Islamabad, Pakistan
