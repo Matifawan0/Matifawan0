@@ -1,24 +1,29 @@
-# Muhammad Atif  
-**Flutter Developer | Cross-Platform Mobile Applications**
+# Muhammad Atif
+**Flutter Developer | Building fast, polished, production-ready mobile apps**
 
-📍 Islamabad, Pakistan  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-atif-67396b270/)  
-📄 **CV:** [View Resume](https://drive.google.com/file/d/1kFE3m93lhhNrPQzeOhTVfC-P7l9iPCla/view?usp=sharing)
+📍 Islamabad, Pakistan (DHA Phase 2) · 💼 Flutter Developer @ Zippy Ecom Solutions
+📩 [Muhammmadatifawan8@gmail.com](mailto:Muhammmadatifawan8@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-atif-67396b270/)
+📄 [View Resume](https://drive.google.com/file/d/1kFE3m93lhhNrPQzeOhTVfC-P7l9iPCla/view?usp=sharing)
+
+> 🟢 Open to Flutter opportunities
 
 ---
 
 ## 👋 About Me
-**Flutter Developer at Zippy Ecom Solutions**
+I build Flutter apps that don't just work, they **feel smooth, fast and premium**.
+I focus on clean code, polished UI/UX, and apps that are ready for the Play Store.
 
-Building scalable, high-quality cross-platform mobile applications with Flutter. Experienced in developing complete product-based applications and AI-integrated solutions.
+**What I bring to a team:**
+- ⚡ **Performance-first:** minimal rebuilds, lazy loading, optimized images and API calls
+- 🎨 **Design-system thinking:** reusable widgets, consistent spacing, typography and colors
+- ✨ **Polished UX:** shimmer loaders, empty/error states, micro-interactions, smooth transitions
+- 🧱 **Maintainable code:** modular files, business logic separated from UI
+- 🚀 **Shipping mindset:** apps prepared and tested for Play Store release
 
 **Core Expertise:** Flutter & Dart · Firebase · AI Integration · Responsive UI/UX · State Management · REST APIs · eCommerce · Business Solutions
 
-
-On-site
-DHA Phase 2, Islamabad, Pakistan
 ---
-
 
 ## ⚡ Tech Stack & Tools
 
@@ -30,6 +35,7 @@ DHA Phase 2, Islamabad, Pakistan
 
 ### 🧠 State Management & Architecture
 ![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-34495E?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 
@@ -53,41 +59,48 @@ DHA Phase 2, Islamabad, Pakistan
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-
 ---
 
-
-# 🚀 Current Focus 
+## 🚀 Current Focus
 *Building professional-grade mobile applications with a focus on premium UI/UX.*
 
 - **Google Play Store:** Actively preparing full-scale apps for Play Store deployment.
-- **Backend & State:** Implementing robust Firebase integration and real-time state management.
-- **UI Architecture:** Focusing on building modular, reusable UI components for scalable design systems.
+- **Backend & State:** Robust Firebase integration and real-time state management.
+- **UI Architecture:** Modular, reusable UI components for scalable design systems.
+- **Level-up:** Moving to Riverpod, GoRouter, Dio and Freezed for new projects.
 
 ---
 
-##  Projects
+## 📂 Featured Projects
 
-### Next Buy App 🚀
+### 🛒 Next Buy App
 *Status: Finalizing for Deployment*
 E-commerce app with product listings and smooth navigation.
+📱 [Play Store link] · 📸 [Screenshots]
 
-### Khad Bazar 🚧
+### 🌾 Khad Bazar
 *Status: In Development*
 Marketplace app for fertilizer products with categories.
+📸 [Screenshots]
 
-### Ideal School App 🎓
+### 🎓 Ideal School App
 *Status: Version 1.0 (UI Frontend)*
 School management app with complete UI frontend.
+📸 [Screenshots]
 
-### Bozt App ✨
+### 🍔 Bozt App
 *Status: Alpha*
 Social app to discover and share food places.
+📸 [Screenshots]
 
-### QuScan App ⚡
+### 📷 QuScan App
 *Status: Feature Optimization*
 Advanced scanner app with optimized performance.
+📸 [Screenshots]
 
+---
+
+## 📫 Let's Work Together
+Hiring a Flutter developer? Email me at **Muhammmadatifawan8@gmail.com**
 
 ⭐ Explore my repositories and feel free to connect!
